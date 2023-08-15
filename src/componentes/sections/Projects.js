@@ -22,8 +22,7 @@ function Projects (){
             tech="HTML, CSS, JS"
             description="Este é o repositorio deste projeto do Portifolio."
             repo="https://github.com/Gustavo-LionStar/MyPortifolio.git" 
-            site="my-portifolio-lionstar.vercel.app
-            "
+            site="my-portifolio-lionstar.vercel.app"
             />
 
             </div>
