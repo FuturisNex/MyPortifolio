@@ -3,7 +3,6 @@ import Presentation from './componentes/sections/Presentation';
 import Projects from './componentes/sections/Projects';
 import Skills from './componentes/sections/Skills';
 import Footer from './componentes/sections/Footer';
-import ButtonB from './componentes/elements/ButtonB';
 
 
 function App() {
