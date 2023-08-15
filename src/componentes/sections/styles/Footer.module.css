@@ -1,22 +1,47 @@
-.Footer{
+.Footer {
     display: flex;
     justify-content: center;
     margin-top: 50px;
 }
 
-.Footer ul{
+.Footer ul {
     list-style: none;
     display: flex;
     justify-content: center;
     margin: 25px;
-    
 }
-.Footer a{
+
+.Footer a {
     color: aliceblue !important;
 }
-.Footer li{
+
+.Footer li {
     margin-left: 15px;
 }
-.Footer p{
+
+.Footer p {
     margin: 25px;
+}
+
+@media screen and (max-width: 768px) {
+    .Footer {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .Footer ul {
+        flex-direction: column;
+        align-items: center;
+        margin: 15px 0;
+    }
+    
+    .Footer li {
+        margin: 8px 0;
+        text-align: center;
+    }
+    
+    .Footer p {
+        margin: 15px 0;
+        text-align: center;
+    }
 }
