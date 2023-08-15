@@ -21,8 +21,9 @@ function Projects (){
             title="Portifolio" 
             tech="HTML, CSS, JS"
             description="Este é o repositorio deste projeto do Portifolio."
-            repo="https://github.com/DantasDaniela/CCXP-2023-LP" 
-            site="https://desafioccxp.netlify.app/"
+            repo="https://github.com/Gustavo-LionStar/MyPortifolio.git" 
+            site="my-portifolio-lionstar.vercel.app
+            "
             />
 
             </div>
