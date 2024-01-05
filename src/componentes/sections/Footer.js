@@ -5,10 +5,10 @@ function Footer (){
         <div className={styles.Footer}>
             <ul>
                 <li><a href='https://www.instagram.com/gustavo_bds_/'><FaInstagram size={(30)}/></a></li>
-                <li><a href='https://github.com/Gustavo-LionStar'><FaGithub size={(30)}/></a></li>
+                <li><a href='https://github.com/Gustavo-BDS'><FaGithub size={(30)}/></a></li>
             </ul>
-            <p>gustavo.lionstar@gmail.com</p>
-            <p> Gustavo LionStar © 2023</p>
+            <p>gustavoclashs362@gmail.com</p>
+            <p> Gustavo © 2023</p>
         </div>
     )
 }

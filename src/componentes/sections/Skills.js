@@ -6,18 +6,18 @@ import react from '../../images/skills/react.svg'
 import git from '../../images/skills/git.svg'
 import java from '../../images/skills/java.png'
 
-function Skills (){
+function Skills() {
     return (
         <div className={styles.Skills} id="Skills">
             <h1>Habilidades</h1>
             <p>Conheça um pouco das minhas principais habilidades e conhecimentos</p>
             <div>
-                <img src={javascript}/>
-                <img src={css}/>
-                <img src={html}/>
-                <img src={react}/>
-                <img src={git}/>
-                <img src={java}/>
+                <img src={java} />
+                <img src={javascript} />
+                <img src={css} />
+                <img src={html} />
+                <img src={react} />
+                <img src={git} />
             </div>
         </div>
     )
